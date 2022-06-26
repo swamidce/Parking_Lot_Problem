@@ -27,4 +27,4 @@ We get the input by reading input.txt directly (you will have to create it in yo
 - To remove a car (leaving a particular slot) : O(log(n)). Here, n is the size of the min heap.
 - To retrieve a car by driver_age (retrieve slot number from driver_age) : O(m). Here, m is the size of the hash map.
 - To retrieve a car by registration number (retrieve slot number from vehicle registration number) : O(m). Here, m is the size of the hash map.
-- To get status (retrieve car registration number from driver_age) : O(m). Here, m is the size of the hash map.
+- To get status (retrieve vehicle registration number from driver_age) : O(m). Here, m is the size of the hash map.

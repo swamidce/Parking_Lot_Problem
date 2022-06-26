@@ -141,7 +141,7 @@ def leave_Slot(lot, inputSlot):
   return result
 
   
-# Function to retrieve car registration number from car_driver_age
+# Function to retrieve vehicle registration number from car_driver_age
 def reg_number_by_Age(lot, inputAge):
   
   res = ''
